@@ -1,0 +1,31 @@
+ip.src == 192.168.116.137 and tco.port == 443
+
+
+1 rusty.shackleford, 192.168.116.137,DESKTOP-6RF3M50
+
+
+2 9040,728, powershell.exe
+
+
+3 winword.exe, 37486-the-shocking-truch-about-election-rigging-in-america.doc
+
+4)empire
+
+5) florencereidbank.com, vldlh12o060gb5.azureedge.net
+
+5) DESKTOP-6RF3M50.local
+
+
+6)Domain Fronting, post
+
+7) apt 19
+8) phishing
+
+
+
+dns.qry.name and ip.dst_host == "192.168.116.2"
+
+
+vldlh12o060gb5.azureedge.net:443
+
+rundll32 C:\Windows\system32\GemeralTel.dll, RunInUserCxt xRXXyNV/wU2Z+ibi.1.1.2 {FB0A7E9A-4C65-4989-BE70-16920B765E10} {5FEBA941-F1E4-9B3D-67B6-7D6A2F4D3C28} IsAdmin WAMAccountCount
